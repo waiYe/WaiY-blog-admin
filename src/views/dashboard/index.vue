@@ -4,7 +4,7 @@
     <el-card>
       <h2>基于 <el-link type="primary" href="https://github.com/PanJiaChen/vue-admin-template">vue-admin-template</el-link> 搭建的个人博客管理后台</h2>
       <h2>前台博客地址： <el-link type="primary" href="http://waiyed.gitee.io/vue-blog/#/">点击跳转</el-link></h2>
-      <h2>后台页面GitHub：<el-link type="primary" href="http://waiyed.gitee.io/vue-blog/#/">点击跳转</el-link></h2>
+      <h2>后台页面GitHub：<el-link type="primary" href="https://github.com/waiYe/WaiY-blog-admin">点击跳转</el-link></h2>
       <p>后台页面主要使用 Vue + element-ui + echarts</p>
       <p>该后台数据均是真实数据，后台服务器部署在阿里云，后台服务器主要使用 Node.js + mongodb，主要库使用 express + mongoose</p>
     </el-card>
